@@ -1,3 +1,8 @@
-import UIKit
+var number = -1
 
-var greeting = "Hello, playground"
+    number *= -1
+
+
+print(number)
+
+
